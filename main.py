@@ -31,4 +31,4 @@ for i in range(len(data)):
 
     browser.get("https://forms.gle/f6hEKu3Ds4yEfBVb7")
 
-browser.quit()
+browser.quit() #Property data: https://docs.google.com/spreadsheets/d/1vkEqLiEFgnOdBxwzJEc5neLRE3PN30jk5CSRTeZ-YTs/edit?resourcekey#gid=802369170
